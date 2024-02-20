@@ -12,8 +12,8 @@
   - Css
   - Html
   - Javacsript
-  - PowerBi
   - SQL
+  - REACT
 
  Here are some examples what have I done
  
